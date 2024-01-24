@@ -68,5 +68,5 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 ## 📞 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/gabriel-rabello-barbosa-204aa7142/)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/gabrielrbarbosa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GabrielRBarbosa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/gabriel-rabello-barbosa-204aa7142/)
+[![Instagram](https://img.shields.io/badge/Instagram-GabrielRBarbosa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/gabrielrbarbosa/)
