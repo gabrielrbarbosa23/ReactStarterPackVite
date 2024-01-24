@@ -1,5 +1,7 @@
 # ReactStarterPackVite
 
+![Print VSCODE](image.png)
+
 ## 📝 Description
 
 **React + Vite Starter-Pack** I created this project with the aim of easing the start of new applications using React + Vite. This project comes pre-configured with react-router-dom for page routing, organization of components, pages, and initial stylings.
