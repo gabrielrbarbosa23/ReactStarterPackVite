@@ -30,13 +30,6 @@ your local machine.
 
 ### ⚙️ Installation and Run Locally
 
-**Step 0:**
-
-Note :bangbang: the application uses EmailJS in order to send emails using client-side, therefore,
-you need to create EmailJS account [here](https://emailjs.com/) and sets the
-`VITE_EMAILJS_SERVICE_ID`, `VITE_EMAILJS_TEMPLATE_ID`, and `VITE_EMAIL_JS_ACCESS_TOKEN` environment
-variables in `.env` file.
-
 **Step 1:**
 
 Download or clone this repo by using the link below:
